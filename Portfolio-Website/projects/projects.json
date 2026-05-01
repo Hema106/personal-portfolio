@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Plant Pulse",
+    "desc": "A machine learning–based application for detecting leaf diseases, enabling early diagnosis and supporting efficient crop management.",
+    "image": "plantpulse",
+    "category": "Webapp",
+    "links": {
+      "view": "https://mature-plant-pulse-ai.base44.app/",
+      "code": "https://github.com/Seerinfarhana/CtrlX.git"
+    }
+  },
+  {
+    "name": "Cultura Network",
+    "desc": "A platform designed to connect individuals through cultural exchange, enabling users to explore, share, and engage with diverse traditions and communities..",
+    "image": "cultura network",
+    "category": "mern",
+    "links": {
+      "view": "https://ctrl-x-nu.vercel.app/",
+      "code": "https://github.com/Seerinfarhana/CtrlX.git"
+    }
+  },
+  {
+    "name": "energy-sync ",
+    "desc": "An intelligent study management platform that enhances exam preparation through personalized insights, real-time progress tracking, and AI-driven performance analysis..",
+    "image": "energysync",
+    "category": "FullStack",
+    "links": {
+      "view": "https://energy-sync-study.lovable.app/",
+      "code": "https://github.com/Hema106/energy-sync-study.git"
+    }
+  },
+  {
+    "name": "Learnaxis",
+    "desc": "An interactive learning platform that enables students to access courses and receive personalized guidance from mentors for effective skill development.",
+    "image": "learnaxis",
+    "category": "FullStack",
+    "links": {
+      "view": "https://learn-axis-hub.lovable.app/",
+      "code": "https://github.com/Keerthika2809/learn-axis-hub.git"
+    }
+  },
+   {
+    "name": "Carrer Connect",
+    "desc": "AI powered platform Connecting talented youth to the right internship with fair and transparent allocation.",
+    "image": "Carrer Connect",
+    "category": "FullStack",
+    "links": {
+      "view": "https://skill-pathfinder-81.lovable.app/",
+      "code": "https://github.com/Keerthika2809/skill-pathfinder-81.git"
+    }
+  }
+]
