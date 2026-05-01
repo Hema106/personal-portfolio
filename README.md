@@ -5,7 +5,7 @@ This is my personal portfolio website built to showcase my skills, projects, and
 ---
 
 ## 🌐 Live Demo
-👉 personal-portfolio2026.netlify.app
+👉 https://personal-portfolio2026.netlify.app/
 
 ---
 
